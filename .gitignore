@@ -1,0 +1,5 @@
+.idea
+.venv
+files
+__pycache__
+files/examples/**.**
